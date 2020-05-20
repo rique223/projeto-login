@@ -69,7 +69,6 @@
         width: 100%;
         background:#ffd700;
         transform: scaleX(0);
-        transform-origin: 0%;
         transition: transform 500ms ease;
         top: 2px;
     }

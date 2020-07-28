@@ -5,7 +5,7 @@ Essa UI foi desenvolvida com o intuito de aprender sobre a checagem dinâmica de
 ### Como executar esse projeto?
 1. Baixe ou clone esse repositório
 2. Abra o projeto em seu CLI favorito
-3. Execute o comando npm run dev.
+3. Execute o comando ```npm run dev```.
 
 # [EN]
 ### Login screen with dynamic password checking
@@ -14,6 +14,6 @@ This UI was developed with the intent of learning about dynamic password checkin
 ### How to run this project?
 1. Download or clone this repository
 2. Open the project in your favorite CLI
-3. Run the npm run dev command.
+3. Run the ``` npm run dev ``` command.
 
 
